@@ -1,0 +1,18 @@
+h1{
+    color: green;
+    background-color: aliceblue;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+}
+
+ul{
+    color: red;
+    padding: 5%;
+}   
+
+#pop{
+    color: blue;
+}
